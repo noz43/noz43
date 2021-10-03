@@ -12,6 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -35,3 +36,4 @@
 <br />
 
 [twitter]: https://twitter.com/noz43
+[discord]: https://discord.gg/fgM664B
