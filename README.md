@@ -13,6 +13,7 @@
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/color/30/000000/youtube--v2.png" />][YT]
 
 <br />
 
@@ -42,3 +43,4 @@
 
 [twitter]: https://twitter.com/noz43
 [discord]: https://discord.gg/fgM664B
+[YT]: https://www.youtube.com/channel/UCZOOUod0nyOMAXVV7cv2p0Q
