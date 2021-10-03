@@ -1,8 +1,11 @@
 ### ### Hi there, I'm Terry - aka noz43 👋
 
 
+### Connect with me:
 
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+<br />
 
 
 ### Languages and Tools I use:
