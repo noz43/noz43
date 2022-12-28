@@ -1,6 +1,6 @@
 ### ### Hi there, I'm Terry - aka noz43 👋
 
-## I'm a Student and Developer!
+## I'm a Developer!
 
 - 🔨 I am currently working on AtomeZ is BloodTrailHosting
 - ⚡ Fun fact: I love The Walking Dead / Post apocalypse
