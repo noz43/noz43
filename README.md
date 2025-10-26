@@ -4,7 +4,7 @@
 
 - 🔨 I am currently working on AtomeZ is BloodTrailHosting
 - ⚡ Fun fact: I love The Walking Dead / Post apocalypse
-- 🚧 AtomeZ website : https://atomez.fr/
+- 🚧 AtomeZ website : https://atomez.net/
 
 ---
 
