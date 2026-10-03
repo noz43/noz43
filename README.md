@@ -1,45 +1,74 @@
-### ### Hi there, I'm Terry - aka noz43 👋
+<div align="center">
 
-## I'm a Developer!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:3a0f0f&height=180&section=header&text=noz43&fontSize=70&fontColor=f0f0f0&fontAlignY=38&desc=Game%20Developer%20%E2%80%A2%20Modder%20%E2%80%A2%20France&descAlignY=60&descSize=16" width="100%" />
 
-- 🔨 I am currently working on AtomeZ is BloodTrailHosting
-- ⚡ Fun fact: I love The Walking Dead / Post apocalypse
-- 🚧 AtomeZ website : https://atomez.net/
+<a href="https://noz43.atomez.net">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E5484D&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Terry+%F0%9F%91%8B;Garry's+Mod+%E2%80%A2+Minecraft+%E2%80%A2+DayZ;Building+AtomeZ.net+%E2%98%A2%EF%B8%8F;Post-apocalypse+enjoyer+%F0%9F%A7%9F" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-noz43.atomez.net-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noz43.atomez.net)
+[![AtomeZ](https://img.shields.io/badge/AtomeZ.net-Minecraft%20Server-1a7f37?style=for-the-badge&logo=minecraft&logoColor=white)](https://atomez.net)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fgM664B)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZOOUod0nyOMAXVV7cv2p0Q)
+[![X](https://img.shields.io/badge/@noz43-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/noz43)
+
+</div>
 
 ---
 
-### Connect with me:
+## 🧟 About me
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/color/30/000000/youtube--v2.png" />][YT]
+```lua
+local noz43 = {
+    name     = "Terry",
+    location = "France 🇫🇷",
+    role     = "Self-taught game developer & modder",
+    games    = { "Garry's Mod", "Minecraft", "DayZ" },
+    working  = { "AtomeZ.net", "BloodTrailHosting" },
+    funFact  = "I love The Walking Dead & everything post-apocalyptic",
+}
+```
 
-<br />
+- 🔨 Currently building **[AtomeZ.net](https://atomez.net)** — a fully modded post-apocalyptic zombie Minecraft server — and working at **BloodTrailHosting**
+- 🎮 I write addons, mods and server systems, from the architecture down to the last UI pixel
+- ⚡ Priorities: performance, clean code and UIs that scale to any resolution
 
+---
 
-### Languages and Tools I use:
+## 🚀 Featured projects
 
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<img align="left" alt="Sublime text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="NPM" width="26px" src="https://img.icons8.com/color/48/000000/npm.png"/>
-<img align="left" alt="ECLECTRON" width="26px" src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-electrons-technology-prettycons-lineal-color-prettycons.png"/>
-<img align="left" alt="eclipse" width="26px" src="https://img.icons8.com/office/16/000000/java-eclipse.png"/>
-<img align="left" alt="IDEA JET" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+| Project | Game | Description | Status |
+|---|---|---|---|
+| **[N_Library](https://github.com/noz43/N_library)** | Garry's Mod | Modular UI library — buttons, sliders, modals, circular progress bars via RNDX | ![Open Source](https://img.shields.io/badge/open%20source-2ea44f?style=flat-square) |
+| **[KOTH DayZ](https://github.com/noz43/Koth-Dayz)** | DayZ | King of the Hill mod — Loot & Vehicle modes, fully configurable server-side | ![Open Source](https://img.shields.io/badge/open%20source-2ea44f?style=flat-square) |
+| **[N-PulseMap](https://gmmarket.me/product/n-pulsemap-serious-hud-customizable-for-players-and-admins-1)** | Garry's Mod | Serious HUD with real-time minimap, blips, zones, FR/EN | ![Paid](https://img.shields.io/badge/paid-d29922?style=flat-square) |
+| **[N GunDealer](https://aide-serveur.fr/ressources/n-gundealer-npc.4638/)** | Garry's Mod | DarkRP NPC gun shop with job restrictions & tabbed UI | ![Paid](https://img.shields.io/badge/paid-d29922?style=flat-square) |
+| **Ultimate Gang System** | Garry's Mod | Gangs & territories for DarkRP — zone capture, wars, SQLite | ![WIP](https://img.shields.io/badge/in%20progress-8957e5?style=flat-square) |
+| **AtomeZ Mod** | Minecraft | Fabric mod — custom HUD, irradiated zones, content packs, Discord RPC | ![Private](https://img.shields.io/badge/private-555?style=flat-square) |
+| **Deadly Killfeed / DeadlySpawn** | DayZ | Killfeed HUD + Discord webhook, custom spawn menu | ![Private](https://img.shields.io/badge/private-555?style=flat-square) |
 
+---
 
-<br />
+## 🛠️ Languages & tools
 
-[twitter]: https://twitter.com/noz43
-[discord]: https://discord.gg/fgM664B
-[YT]: https://www.youtube.com/channel/UCZOOUod0nyOMAXVV7cv2p0Q
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,java,js,nodejs,cpp,c,php,mysql,mongodb,html,css,sass&theme=dark" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,idea,eclipse,gradle,npm,electron,discordjs,figma,linux&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noz43&show_icons=true&hide_border=true&theme=transparent&title_color=E5484D&icon_color=E5484D&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noz43&layout=compact&hide_border=true&theme=transparent&title_color=E5484D&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0f0f,100:0d0d0d&height=100&section=footer" width="100%" />
+</div>
