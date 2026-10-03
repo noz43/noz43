@@ -30,10 +30,6 @@ local noz43 = {
 }
 ```
 
-- 🔨 Currently building **[AtomeZ.net](https://atomez.net)**, a fully modded post-apocalyptic zombie Minecraft server
-- 🎮 I write addons, mods and server systems, from the architecture down to the last UI pixel
-- ⚡ Priorities: performance, clean code and UIs that scale to any resolution
-
 ---
 
 ## 🚀 Featured projects
